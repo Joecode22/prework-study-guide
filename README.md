@@ -2,7 +2,7 @@
 
 ## A study guide for course pre-work.
 
-This study guide was created for students going through the prework section. I includes notes on the following topics:
+This study guide was created for students going through the prework section. It includes notes on the following topics:
 
 - HTML
 - CSS
