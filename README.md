@@ -21,7 +21,7 @@ For suggestions on which section to review, right-click and choose inspect then 
 
 ## Credits
 
-GitHub Co-Pilot generated some of the bullet points listed in each study topic
+I was experimenting with GitHub Co-Pilot and it generated some of the bullet points listed in each study topic
 
 ## License
 
